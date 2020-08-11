@@ -25,7 +25,7 @@ const routes = [
         path: "/test",
         name: "Test",
         icon: <DesktopOutlined />,
-        component: <div>Test</div>,
+        component: <div>MrDat Test</div>,
     },
     {
         path: "/style-component",
